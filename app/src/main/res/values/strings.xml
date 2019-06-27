@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BuildItBigger</string>
+    <string name="action_settings">action_settings</string>
+    <string name="instructions">instructions</string>
+    <string name="button_text">button_text</string>
+    <string name="banner_ad_unit_id">banner_ad_unit_id</string>
 </resources>
